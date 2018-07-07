@@ -75,7 +75,7 @@ If you want to be a reliability engineer or operations engineer, study more from
     - [Hash table](#hash-table) ![Progress](http://progressed.io/bar/15)
 - [More Knowledge](#more-knowledge)
     - [Binary search](#binary-search)
-    - [Bitwise operations](#bitwise-operations)  ![Progress](http://progressed.io/bar/60)
+    - [Bitwise operations](#bitwise-operations)  ![Progress](http://progressed.io/bar/35)
     - [BitVector](#bitvector) ![Progress](http://progressed.io/bar/100)
 - [Trees](#trees)
     - [Trees - Notes & Background](#trees---notes--background)
