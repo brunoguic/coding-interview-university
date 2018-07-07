@@ -680,7 +680,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [Absolute Integer](http://bits.stephan-brumme.com/absInteger.html)
 
 - ### Bitvector
-    - [] Implement a bitvector using the follow operations
+    - [X] Implement a bitvector using the follow operations
         - create (int size)
         - set (int index)
         - clear (int index)
