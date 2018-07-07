@@ -76,6 +76,7 @@ If you want to be a reliability engineer or operations engineer, study more from
 - [More Knowledge](#more-knowledge)
     - [Binary search](#binary-search)
     - [Bitwise operations](#bitwise-operations)  ![Progress](http://progressed.io/bar/60)
+    - [BitVector](#bitvector) ![Progress](http://progressed.io/bar/100)
 - [Trees](#trees)
     - [Trees - Notes & Background](#trees---notes--background)
     - [Binary search trees: BSTs](#binary-search-trees-bsts)
@@ -679,7 +680,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [ ] absolute value:
         - [Absolute Integer](http://bits.stephan-brumme.com/absInteger.html)
 
-- ### Bitvector
+- ### BitVector
     - [X] Implement a bitvector using the follow operations
         - create (int size)
         - set (int index)
