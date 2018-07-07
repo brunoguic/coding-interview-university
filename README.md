@@ -653,8 +653,8 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - binary search using recursion
 
 - ### Bitwise operations
-    - [ ] [Bits cheat sheet](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/bits-cheat-cheet.pdf) - you should know many of the powers of 2 from (2^1 to 2^16 and 2^32)
-    - [X] Get a really good understanding of manipulating bits with: &, |, ^, ~, >>, <<
+    - [X] [Bits cheat sheet](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/bits-cheat-cheet.pdf) - you should know many of the powers of 2 from (2^1 to 2^16 and 2^32)
+    - [ ] Get a really good understanding of manipulating bits with: &, |, ^, ~, >>, <<
         - [X] [words](https://en.wikipedia.org/wiki/Word_(computer_architecture))
         - [X] Good intro:
             [Bit Manipulation (video)](https://www.youtube.com/watch?v=7jkIUgLC29I)
@@ -678,6 +678,15 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [Swap](http://bits.stephan-brumme.com/swap.html)
     - [ ] absolute value:
         - [Absolute Integer](http://bits.stephan-brumme.com/absInteger.html)
+
+- ### Bitvector
+    - [] Implement a bitvector using the follow operations
+        - create (int size)
+        - set (int index)
+        - clear (int index)
+        - toggle (int index)
+        - is_set (int index) : bool
+
 
 ## Trees
 
