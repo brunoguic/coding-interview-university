@@ -70,7 +70,7 @@ If you want to be a reliability engineer or operations engineer, study more from
 - [Data Structures](#data-structures)
     - [Arrays](#arrays) ![Progress](http://progressed.io/bar/75)
     - [Linked Lists](#linked-lists)
-    - [Stack](#stack)
+    - [Stack](#stack)  ![Progress](http://progressed.io/bar/80) (falta perguntas no Anki e escrever fichas)
     - [Queue](#queue)
     - [Hash table](#hash-table) ![Progress](http://progressed.io/bar/15)
 - [More Knowledge](#more-knowledge)
