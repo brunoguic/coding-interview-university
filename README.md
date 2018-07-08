@@ -74,7 +74,7 @@ If you want to be a reliability engineer or operations engineer, study more from
     - [Queue](#queue)
     - [Hash table](#hash-table) ![Progress](http://progressed.io/bar/15)
 - [More Knowledge](#more-knowledge)
-    - [Binary search](#binary-search)
+    - [Binary search](#binary-search) ![Progress](http://progressed.io/bar/65)
     - [Bitwise operations](#bitwise-operations)  ![Progress](http://progressed.io/bar/35)
     - [BitVector](#bitvector) ![Progress](http://progressed.io/bar/100)
 - [Trees](#trees)
@@ -646,10 +646,10 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 ## More Knowledge
 
 - ### Binary search
-    - [ ] [Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)
+    - [X] [Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)
     - [ ] [Binary Search (video)](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
     - [ ] [detail](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/)
-    - [ ] Implement:
+    - [X] Implement:
         - binary search (on sorted array of integers)
         - binary search using recursion
 
