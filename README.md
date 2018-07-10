@@ -30,7 +30,7 @@ Intro removed.. checkout on branch master,
 - [Trees](#trees)
     - [Trees - Notes & Background](#trees---notes--background)
     - [Binary search trees: BSTs](#binary-search-trees-bsts)
-    - [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
+    - [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)  ![Progress](http://progressed.io/bar/45)
     - balanced search trees (general concept, not details)
     - traversals: preorder, inorder, postorder, BFS, DFS
 - [Sorting](#sorting)
