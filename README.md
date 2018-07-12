@@ -5,7 +5,7 @@ Intro removed.. checkout on branch master,
 
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
 - [Data Structures](#data-structures)
-    - [Arrays](#arrays) ![Progress](http://progressed.io/bar/75)
+    - [Arrays](#arrays) ![Progress](http://progressed.io/bar/80)
     - [Linked Lists](#linked-lists)  ![Progress](http://progressed.io/bar/65)
     - [Hash table](#hash-table) ![Progress](http://progressed.io/bar/15)
 - [Abstract Data Type](#abstract-data-type)
@@ -164,10 +164,10 @@ Intro removed.. checkout on branch master,
         - [X] resize(new_capacity) // private function
             - when you reach capacity, resize to double the size
             - when popping an item, if size is 1/4 of capacity, resize to half
-    - [ ] Understand the Time Complexity
+    - [X] Understand the Time Complexity
         - O(1) to add/remove at end (amortized for allocations for more space), index, or update
         - O(n) to insert/remove elsewhere
-    - [ ] Understand the Space Complexity
+    - [X] Understand the Space Complexity
         - contiguous in memory, so proximity helps performance
         - space needed = (array capacity, which is >= n) * size of item, but even if 2n, still O(n)
 
