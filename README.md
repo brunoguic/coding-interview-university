@@ -34,7 +34,7 @@ Intro removed.. checkout on branch master,
     - adjacency list
     - traversals: BFS, DFS
 - [Even More Knowledge](#even-more-knowledge)
-    - [Recursion](#recursion)
+    - [Recursion](#recursion)  ![Progress](http://progressed.io/bar/10)
     - [Dynamic Programming](#dynamic-programming)
     - [Object-Oriented Programming](#object-oriented-programming)
     - [Design Patterns](#design-patterns)
@@ -112,7 +112,7 @@ Intro removed.. checkout on branch master,
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 - nothing to implement
 - [X] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-- [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
+- [X] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] Skiena:
     - [video](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
@@ -531,8 +531,8 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
 ## Even More Knowledge
 
 - ### Recursion
-    - [ ] Stanford lectures on recursion & backtracking:
-        - [ ] [Lecture 8 | Programming Abstractions (video)](https://www.youtube.com/watch?v=gl3emqCuueQ&list=PLFE6E58F856038C69&index=8)
+    - Stanford lectures on recursion & backtracking:
+        - [X] [Lecture 8 | Programming Abstractions (video)](https://www.youtube.com/watch?v=gl3emqCuueQ&list=PLFE6E58F856038C69&index=8)
         - [ ] [Lecture 9 | Programming Abstractions (video)](https://www.youtube.com/watch?v=uFJhEPrbycQ&list=PLFE6E58F856038C69&index=9)
         - [ ] [Lecture 10 | Programming Abstractions (video)](https://www.youtube.com/watch?v=NdF1QDTRkck&index=10&list=PLFE6E58F856038C69)
         - [ ] [Lecture 11 | Programming Abstractions (video)](https://www.youtube.com/watch?v=p-gpaIGRCQI&list=PLFE6E58F856038C69&index=11)
