@@ -5,7 +5,7 @@ Intro removed.. checkout on branch master,
 
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)  ![Progress](http://progressed.io/bar/10)
 - [Data Structures](#data-structures)
-    - [Arrays](#arrays) ![Progress](http://progressed.io/bar/80)
+    - [Arrays](#arrays) ![Progress](http://progressed.io/bar/100)
     - [Linked Lists](#linked-lists)  ![Progress](http://progressed.io/bar/65)
     - [Hash table](#hash-table) ![Progress](http://progressed.io/bar/15)
 - [Abstract Data Type](#abstract-data-type)
@@ -146,7 +146,7 @@ Intro removed.. checkout on branch master,
         - ~~[] [Jagged Arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Jagged-arrays/149042/177106-4.html)~~
         - ~~[] [Resizing arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Resizable-arrays/149042/177108-4.html)~~  
     - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
-    - [ ] Implement a vector (mutable array with automatic resizing):
+    - Implement a vector (mutable array with automatic resizing):
         - new raw data array with allocated memory
             - can allocate int array under the hood, just not use its features
             - start with 16, or if starting number is greater, use power of 2 - 16, 32, 64, 128
@@ -156,7 +156,7 @@ Intro removed.. checkout on branch master,
         - [X] at(index) - returns item at given index, blows up if index out of bounds
         - [X] push(item)
         - [X] insert(index, item) - inserts item at index, shifts that index's value and trailing elements to the right
-        - [ ] prepend(item) - can use insert above at index 0
+        - [X] prepend(item) - can use insert above at index 0
         - [X] pop() - remove from end, return value
         - [X] delete(index) - delete item at index, shifting all trailing elements left
         - [X] remove(item) - looks for value and removes index holding it (even if in multiple places)
