@@ -9,7 +9,7 @@ Intro removed.. checkout on branch master,
     - [Linked Lists](#linked-lists)  ![Progress](http://progressed.io/bar/65)
     - [Hash table](#hash-table) ![Progress](http://progressed.io/bar/15)
 - [Abstract Data Type](#abstract-data-type)
-    - [Stack](#stack)  ![Progress](http://progressed.io/bar/80) (falta perguntas no Anki e escrever fichas)
+    - [Stack](#stack)  ![Progress](http://progressed.io/bar/100)
     - [Queue](#queue)
 - [More Knowledge](#more-knowledge)
     - [Binary search](#binary-search) ![Progress](http://progressed.io/bar/65)
