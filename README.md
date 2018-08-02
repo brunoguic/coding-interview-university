@@ -143,8 +143,8 @@ Intro removed.. checkout on branch master,
         - ~~[] [Multi-dim (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Multidimensional-arrays/149042/177105-4.html)~~
         - [X] [Dynamic Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/EwbnV/dynamic-arrays)
         - [X] [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
-        - ~~[] [Jagged Arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Jagged-arrays/149042/177106-4.html)~~
-        - ~~[] [Resizing arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Resizable-arrays/149042/177108-4.html)~~  
+        - [X] [Jagged Arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Jagged-arrays/149042/177106-4.html)
+        - [X] [Resizing arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Resizable-arrays/149042/177108-4.html)  
     - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
     - Implement a vector (mutable array with automatic resizing):
         - new raw data array with allocated memory
