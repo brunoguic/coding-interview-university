@@ -10,24 +10,24 @@ Intro removed.. checkout on branch master,
     - [Hash table](#hash-table) ![Progress](http://progressed.io/bar/15)
 - [Abstract Data Type](#abstract-data-type)
     - [Stack](#stack)  ![Progress](http://progressed.io/bar/100)
-    - [Queue](#queue)
+    - [Queue](#queue) ![Progress](http://progressed.io/bar/75)
 - [More Knowledge](#more-knowledge)
     - [Binary search](#binary-search) ![Progress](http://progressed.io/bar/65)
     - [Bitwise operations](#bitwise-operations)  ![Progress](http://progressed.io/bar/35)
     - [BitVector](#bitvector) ![Progress](http://progressed.io/bar/100)
 - [Trees](#trees)
-    - [Trees - Notes & Background](#trees---notes--background)
-    - [Binary search trees: BSTs](#binary-search-trees-bsts)
+    - [Trees - Notes & Background](#trees---notes--background) ![Progress](http://progressed.io/bar/0)
+    - [Binary search trees: BSTs](#binary-search-trees-bsts) ![Progress](http://progressed.io/bar/0)
     - [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)  ![Progress](http://progressed.io/bar/45)
     - balanced search trees (general concept, not details)
     - traversals: preorder, inorder, postorder, BFS, DFS
-- [Sorting](#sorting)
+- [Sorting](#sorting) ![Progress](http://progressed.io/bar/0)
     - selection
     - insertion
     - heapsort
     - quicksort
     - merge sort
-- [Graphs](#graphs)
+- [Graphs](#graphs) ![Progress](http://progressed.io/bar/0)
     - directed
     - undirected
     - adjacency matrix
@@ -35,32 +35,32 @@ Intro removed.. checkout on branch master,
     - traversals: BFS, DFS
 - [Even More Knowledge](#even-more-knowledge)
     - [Recursion](#recursion)  ![Progress](http://progressed.io/bar/10)
-    - [Dynamic Programming](#dynamic-programming)
-    - [Object-Oriented Programming](#object-oriented-programming)
-    - [Design Patterns](#design-patterns)
+    - [Dynamic Programming](#dynamic-programming) ![Progress](http://progressed.io/bar/0)
+    - [Object-Oriented Programming](#object-oriented-programming) ![Progress](http://progressed.io/bar/0)
+    - [Design Patterns](#design-patterns) ![Progress](http://progressed.io/bar/0)
     - [Combinatorics (n choose k) & Probability](#combinatorics-n-choose-k--probability) ![Progress](http://progressed.io/bar/40)
     - [NP, NP-Complete and Approximation Algorithms](#np-np-complete-and-approximation-algorithms) ![Progress](http://progressed.io/bar/35)
-    - [Caches](#caches)
-    - [Processes and Threads](#processes-and-threads)
-    - [Papers](#papers)
-    - [Testing](#testing)
-    - [Scheduling](#scheduling)
-    - [Implement system routines](#implement-system-routines)
-    - [String searching & manipulations](#string-searching--manipulations)
-    - [Tries](#tries)
-    - [Floating Point Numbers](#floating-point-numbers)
-    - [Unicode](#unicode)
-    - [Endianness](#endianness)
-- [Networking](#networking)
-- [System Design, Scalability, Data Handling](#system-design-scalability-data-handling) (if you have 4+ years experience)
-- [Final Review](#final-review)
-- [Coding Question Practice](#coding-question-practice)
-- [Coding exercises/challenges](#coding-exerciseschallenges)
-- [Once you're closer to the interview](#once-youre-closer-to-the-interview)
-- [Your Resume](#your-resume)
-- [Be thinking of for when the interview comes](#be-thinking-of-for-when-the-interview-comes)
-- [Have questions for the interviewer](#have-questions-for-the-interviewer)
-- [Once You've Got The Job](#once-youve-got-the-job)
+    - [Caches](#caches) ![Progress](http://progressed.io/bar/0)
+    - [Processes and Threads](#processes-and-threads) ![Progress](http://progressed.io/bar/0)
+    - [Papers](#papers) ![Progress](http://progressed.io/bar/0)
+    - [Testing](#testing) ![Progress](http://progressed.io/bar/0)
+    - [Scheduling](#scheduling) ![Progress](http://progressed.io/bar/0)
+    - [Implement system routines](#implement-system-routines) ![Progress](http://progressed.io/bar/0)
+    - [String searching & manipulations](#string-searching--manipulations) ![Progress](http://progressed.io/bar/0)
+    - [Tries](#tries) ![Progress](http://progressed.io/bar/0)
+    - [Floating Point Numbers](#floating-point-numbers) ![Progress](http://progressed.io/bar/0)
+    - [Unicode](#unicode) ![Progress](http://progressed.io/bar/0)
+    - [Endianness](#endianness) ![Progress](http://progressed.io/bar/0)
+- [Networking](#networking) ![Progress](http://progressed.io/bar/0)
+- [System Design, Scalability, Data Handling](#system-design-scalability-data-handling) ![Progress](http://progressed.io/bar/0)
+- [Final Review](#final-review) ![Progress](http://progressed.io/bar/0)
+- [Coding Question Practice](#coding-question-practice) ![Progress](http://progressed.io/bar/0)
+- [Coding exercises/challenges](#coding-exerciseschallenges) ![Progress](http://progressed.io/bar/0)
+- [Once you're closer to the interview](#once-youre-closer-to-the-interview) ![Progress](http://progressed.io/bar/0)
+- [Your Resume](#your-resume) ![Progress](http://progressed.io/bar/0)
+- [Be thinking of for when the interview comes](#be-thinking-of-for-when-the-interview-comes) ![Progress](http://progressed.io/bar/0)
+- [Have questions for the interviewer](#have-questions-for-the-interviewer) ![Progress](http://progressed.io/bar/0)
+- [Once You've Got The Job](#once-youve-got-the-job) ![Progress](http://progressed.io/bar/0)
 
 ---------------- Everything below this point is optional ----------------
 
@@ -139,12 +139,12 @@ Intro removed.. checkout on branch master,
     - Description:
         - [X] [Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
         - [X] [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
-        - ~~[] [Basic Arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Basic-arrays/149042/177104-4.html)~~
-        - ~~[] [Multi-dim (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Multidimensional-arrays/149042/177105-4.html)~~
+        - [X] [Basic Arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Basic-arrays/149042/177104-4.html)
+        - [X] [Multi-dim (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Multidimensional-arrays/149042/177105-4.html)
         - [X] [Dynamic Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/EwbnV/dynamic-arrays)
         - [X] [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
         - [X] [Jagged Arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Jagged-arrays/149042/177106-4.html)
-        - [X] [Resizing arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Resizable-arrays/149042/177108-4.html)  
+        - [X] [Resizing arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Resizable-arrays/149042/177108-4.html)
     - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
     - Implement a vector (mutable array with automatic resizing):
         - new raw data array with allocated memory
@@ -239,26 +239,26 @@ Intro removed.. checkout on branch master,
 
 - ### Stack
     - [X] [Stacks (video)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
-    - ~~[ ] [Using Stacks Last-In First-Out (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-stacks-last-first-out/149042/177120-4.html)~~
+    - [X] [Using Stacks Last-In First-Out (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-stacks-last-first-out/149042/177120-4.html)
     - Implementation
         - [X] With array
         - [X] With linked-list
 
 - ### Queue
-    - ~~[ ] [Using Queues First-In First-Out(video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-queues-first-first-out/149042/177122-4.html)~~
+    - [X] [Using Queues First-In First-Out(video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-queues-first-first-out/149042/177122-4.html)
     - [X] [Queue (video)](https://www.coursera.org/learn/data-structures/lecture/EShpq/queues)
-    - [ ] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
-    - [ ] [Priority Queues (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Priority-queues-deques/149042/177123-4.html)
+    - [X] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
+    - [X] [Priority Queues (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Priority-queues-deques/149042/177123-4.html)
     - [ ] Implement using linked-list, with tail pointer:
         - enqueue(value) - adds value at position at tail
         - dequeue() - returns value and removes least recently added element (front)
         - empty()
-    - [ ] Implement using fixed-sized array:
+    - [X] Implement using fixed-sized array:
         - enqueue(value) - adds item at end of available storage
         - dequeue() - returns value and removes least recently added element
         - empty()
         - full()
-    - [ ] Cost:
+    - [X] Cost:
         - a bad implementation using linked list where you enqueue at head and dequeue at tail would be O(n)
             because you'd need the next to last element, causing a full traversal each dequeue
         - enqueue: O(1) (amortized, linked list and array [probing])
